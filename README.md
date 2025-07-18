@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lockey33
-- 👀 FullStack Developer: NodeJS/ReactJS/VueJS/PHP/jQuery/Vanilla ES6
+- 👀 FullStack Developer: NodeJS/ReactJS/Typescript
 - 🌱 I’m currently loving Blockchain developement (Solidity/Web3/EthersJS/Hardhat)
 
 
