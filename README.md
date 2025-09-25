@@ -2,6 +2,7 @@
 - 👀 FullStack Developer: NodeJS/ReactJS/Typescript
 - 🌱 I’m currently loving Blockchain developement (Solidity/Web3/EthersJS/Hardhat)
 - Linkedin : https://www.linkedin.com/in/laurent-julienne-596b5a142/
+- My last creation : https://job-stats-five.vercel.app/
 
 
 <!---
