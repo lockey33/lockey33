@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lockey33
 - 👀 FullStack Developer: Expert on NodeJS/ReactJS/Typescript
-- 8 years of experience.
+- 6.5 years of experience.
 
 
 <!---
